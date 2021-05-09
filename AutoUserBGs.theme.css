@@ -1,0 +1,15 @@
+/**
+ * @name AutoUSRBG
+ * @author Tropical#8908, extended by 0J3#0001
+ * @version 1
+ * @invite uPCVMKDSVM
+ * @description A pure CSS database of user requested backgrounds for discord, but this time automated.
+ * @source https://github.com/0J3-2/AutoUserBGs
+*/
+
+/* Base UserBGs */
+@import url("https://discord-custom-covers.github.io/usrbg/snippets/modals.css");
+@import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
+
+/* Load Automated Vars */
+@import url("https://0j3-2.github.io/AutoUserBGs/publicvars.css")
