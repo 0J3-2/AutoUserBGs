@@ -1,7 +1,7 @@
 # AutoUserBGs
 Automated version of UserBGs where anyone can add a background almost instantly, without manual approval.
 
-if there ever will be manual approval, it will be minimal and require one click to aprove.
+if there ever will be manual approval, it will be minimal and require one click to aprove, therefor changing the wait time to under a day for most bgs.
 
 the backend will be open source
 
