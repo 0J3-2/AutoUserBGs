@@ -1,0 +1,9 @@
+{
+	"name": "AutoUserBGs",
+	"description": "A list of user-selected banners",
+	"version": "1.0.0",
+	"author": "0J3#0001",
+	"license": "AGPL3.0",
+	"consent": "true",
+	"theme": "AutoUserBGs.theme.css"
+}
