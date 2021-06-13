@@ -1,6 +1,7 @@
 /* This file is an example for setting banners */
 
 /* Set Banners */
-.profileBanner-33-uE1 {
-  background: var(--user-background)
+.profileBanner-33-uE1,.popoutBanner-19WKGg {
+  background: var(--user-background);
+  background-repeat: no-repeat;
 }
