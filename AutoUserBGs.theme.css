@@ -12,4 +12,7 @@
 @import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
 
 /* Load Automated Vars */
-@import url("https://0j3-2.github.io/AutoUserBGs/publicvars.css")
+@import url("https://0j3-2.github.io/AutoUserBGs/publicvars.css");
+
+/* Load Background Setting Styles */
+@import url("https://0j3-2.github.io/AutoUserBGs/banners.css");
