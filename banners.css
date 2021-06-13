@@ -4,4 +4,5 @@
 .profileBanner-33-uE1,.popoutBanner-19WKGg {
   background: var(--user-background);
   background-repeat: no-repeat;
+  background-size: cover;
 }
